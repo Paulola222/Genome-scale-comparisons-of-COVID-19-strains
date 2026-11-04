@@ -28,13 +28,5 @@ extract conserved and variant genomic regions across all strain pairs.
 - `dfs_output.txt`, `postorder_output.txt` — traversal outputs used to 
   identify conserved regions
 
-## Context
-This is an independently developed research project, undertaken outside of 
-any funded laboratory or formal academic assignment, applying comparative 
-genomics methodology to a question of ongoing public health relevance: 
-identifying which regions of a viral genome are conserved enough to serve as 
-reliable diagnostic or vaccine targets across strains, and which are variable 
-enough to require strain-specific monitoring.
-
 ## Author
 Paul Ayodeji Ola
